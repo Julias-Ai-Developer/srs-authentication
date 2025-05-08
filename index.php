@@ -40,6 +40,7 @@
             box-shadow: var(--shadow);
             overflow: hidden;
             position: relative;
+            margin-left: 100px;
         }
         
         .auth-row {
